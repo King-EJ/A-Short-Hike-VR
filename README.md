@@ -6,9 +6,10 @@ VR Mod for A Short Hike
 
 A SHORT HIKE VR  -  VR mod for "A Short Hike" (Unity 2019.4, Mono x86 / 32-bit, built-in renderer, BepInEx 5)
 ==============================================================================================================
-Version 0.1.4 (test build)
+Version 0.1.4 (test on Quest 3 Steam and GOG)
 
 IMPORTANT: this mod uses **STEAMVR** (OpenVR)
+
 INSTALL
 -
   1. unzip into the game folder.
